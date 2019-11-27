@@ -11,8 +11,9 @@ dependencies:
   firebase_auth: ^0.15.0+1
   provider: ^3.1.0+1
 dev_dependencies:
-  flutter_test:
+  flutter_driver:
     sdk: flutter
+  test:
   mockito: ^4.1.1
   rxdart:
   flutter_automation: any
